@@ -1,0 +1,20 @@
+{
+  "user_id": 6629163755,
+  "chat_id": 6629163755,
+  "username": "bullevg",
+  "pet_type": "dog",
+  "gender": "male",
+  "location": {
+    "latitude": null,
+    "longitude": null,
+    "address": "Москва, ул. Пушкина, д. 10"
+  },
+  "comment": "test",
+  "created_at": "2025-05-08 07:51:50",
+  "id": "ec5af450",
+  "photo_files": [
+    "dog_male_ec5af450_image_1.jpg"
+  ],
+  "pet_type_text": "Собака",
+  "gender_text": "Мальчик"
+}

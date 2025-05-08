@@ -1,0 +1,1 @@
+"""Tests module for TG Pet911 Bot.""" 
