@@ -1,5 +1,7 @@
-![Demo](demo/demo.gif)
 
+<p align="center">
+  <img src="demo/demo.gif" width="350">
+</p>
 #  🐾 Telegram Bot для сбора и обработки информации о пропавших домашних животных.
 
 ## **📋 О проекте**
