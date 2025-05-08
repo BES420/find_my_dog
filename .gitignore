@@ -55,8 +55,10 @@ venv.bak/
 # Project specific
 tg_bot_pet911/config/.env
 tg_bot_pet911/data/photos/
+tg_bot_pet911/data/pets/
 logs/
 *.log
+README.md
 
 # macOS
 .DS_Store

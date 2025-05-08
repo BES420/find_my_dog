@@ -182,7 +182,7 @@ async def confirm_submission(callback: CallbackQuery, state: FSMContext, bot: Bo
         
         # Add local save status
         if local_save_success:
-            success_message += f"📁 Данные сохранены локально в: {saved_dir}\n\n"
+            success_message += f"📁 Данные сохранены локально"
             
             # Add JSON data
             if pet_data_json:
